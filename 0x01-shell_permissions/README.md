@@ -1,2 +1,2 @@
 Shell permissions
-Prints the effective username of the current user
+Prints  username of the current user
